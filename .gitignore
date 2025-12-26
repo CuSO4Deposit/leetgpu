@@ -1,3 +1,5 @@
+.direnv/
+.envrc
 # Created by https://www.toptal.com/developers/gitignore/api/c,c++,cuda
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,c++,cuda
 
